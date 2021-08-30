@@ -1,5 +1,5 @@
 public class Heartbeat {
-
+//main
 	public static void main(String[] args) {
 		double time = 0;
 		while(time < 100) {
